@@ -1,0 +1,2 @@
+To jest tekst dla celow naukowych - pierwsza linia
+To jest druga linia
